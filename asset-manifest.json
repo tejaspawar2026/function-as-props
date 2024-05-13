@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/function-as-props/static/css/main.31d6cfe0.css",
+    "main.js": "/function-as-props/static/js/main.5cd5c14f.js",
+    "index.html": "/function-as-props/index.html",
+    "main.5cd5c14f.js.map": "/function-as-props/static/js/main.5cd5c14f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.5cd5c14f.js"
+  ]
+}
